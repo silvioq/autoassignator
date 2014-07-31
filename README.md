@@ -1,0 +1,4 @@
+autoassignator
+==============
+
+Redmine autoassignator
