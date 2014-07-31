@@ -1,0 +1,13 @@
+= Autoassignator - Redmine Plugin
+
+== Feature
+
+* Automaticly change the issues assignee according to status.
+* Based on https://github.com/fanzai0403/status_button
+
+== Usage
+
+You should do these before this plugin can automaticly change the issues assignee:
+1. Create some project custom fileds(user format), such as 'autoassign', etc.
+2. Choose 'autoassign' or empty for each issue status.
+
